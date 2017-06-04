@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Работа с наборами карточек
-url: /cardset_work
 order: 5
 ---
 
@@ -24,39 +23,39 @@ order: 5
 
 ### Создание набора карточек
 <div class="pic-right"> 
-    <img class="lc-img" src="/public/images/dicts_cardset_menu.png"> 
+    <img class="lc-img" src="{{ site.baseurl }}/public/images/dicts_cardset_menu.png"> 
 </div>
 <div class="pic-right"> 
-    <img class="lc-img" src="/public/images/dict_cardset_menu.png"> 
+    <img class="lc-img" src="{{ site.baseurl }}/public/images/dict_cardset_menu.png"> 
 </div>
 <div class="pic-row"></div>
 
 ### Открытие набора карточек
 <div class="pic-right"> 
-    <img class="lc-img" src="/public/images/cardset_open_menu.png"> 
+    <img class="lc-img" src="{{ site.baseurl }}/public/images/cardset_open_menu.png"> 
 </div>
 
 <div class="pic-right"> 
-    <img class="lc-img" src="/public/images/cardset_select.png"> 
+    <img class="lc-img" src="{{ site.baseurl }}/public/images/cardset_select.png"> 
 </div>
 <div class="pic-row"></div>
 
 ### Изучение выбранного набора карточек
 <div class="pic-right"> 
-    <img class="lc-img small" src="/public/images/cardset1.png"> 
+    <img class="lc-img small" src="{{ site.baseurl }}/public/images/cardset1.png"> 
 </div>
 
 <div class="pic-right"> 
-    <img class="lc-img small" src="/public/images/cardset2.png"> 
+    <img class="lc-img small" src="{{ site.baseurl }}/public/images/cardset2.png"> 
 </div>
 
 <div class="pic-right"> 
-    <img class="lc-img small" src="/public/images/cardset3.png"> 
+    <img class="lc-img small" src="{{ site.baseurl }}/public/images/cardset3.png"> 
 </div>
 
 <div class="pic-row"></div>
 <div class="pic-right"> 
-    <img class="lc-img" src="/public/images/cardset3-2.png"> 
+    <img class="lc-img" src="{{ site.baseurl }}/public/images/cardset3-2.png"> 
 </div>
 
 В меню настроек просмотра карточки, можно выставить следующие настройки:
@@ -67,7 +66,7 @@ order: 5
 
 <div class="pic-row"></div>
 <div class="pic-right"> 
-    <img class="lc-img" src="/public/images/cardset4.png"> 
+    <img class="lc-img" src="{{ site.baseurl }}/public/images/cardset4.png"> 
 </div>
 
 * **Показывать выйченные выражения** - если опция отмечена то выученные карточки набора будут показываться при пролистывании

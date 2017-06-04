@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Общие сведения
-url: /introducing
 order: 1
 ---
 

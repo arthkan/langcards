@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Список словарей
-url: /dict_list
 order: 3
 ---
 
 <div class="pic-right"> 
-    <img class="lc-img" src="/public/images/dict_list.png"> 
+    <img class="lc-img" src="{{ site.baseurl }}/public/images/dict_list.png"> 
 </div>
 __Словари__ - содержит полный список словаре.
  
@@ -16,7 +15,7 @@ __Словари__ - содержит полный список словаре.
 
 <div class="pic-row"></div>
 <div class="pic-row pic-right"> 
-    <img class="lc-img" src="/public/images/dicts_app_menu.png"> 
+    <img class="lc-img" src="{{ site.baseurl }}/public/images/dicts_app_menu.png"> 
 </div>
 
 __Меню управления словарями позволяет:__
@@ -34,7 +33,7 @@ __Меню управления словарями позволяет:__
 
 <div class="pic-row"></div>
 <div class="pic-right"> 
-    <img class="lc-img" src="/public/images/dict_menu.png"> 
+    <img class="lc-img" src="{{ site.baseurl }}/public/images/dict_menu.png"> 
 </div>
 
 __Меню управления словарем__

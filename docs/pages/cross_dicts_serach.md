@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Поиск карточек по словарям
-url: /cross_dicts_search
 order: 7
 ---
 
@@ -9,11 +8,11 @@ order: 7
 Для проверки используется изучаемое выражение карточки 
 
 <div class="pic-right"> 
-    <img src="/public/images/cross_dicts_search.png"> 
+    <img src="{{ site.baseurl }}/public/images/cross_dicts_search.png"> 
 </div>
 
 <div class="pic-right"> 
-    <img src="/public/images/cross_dicts_search2.png"> 
+    <img src="{{ site.baseurl }}/public/images/cross_dicts_search2.png"> 
 </div>
 
 <div class="pic-row"></div>

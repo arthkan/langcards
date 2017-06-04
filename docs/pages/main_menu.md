@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Главное меню приложения
-url: /main_menu
 order: 2
 ---
 
 <div class="pic-right"> 
-    <img class="lc-img" src="/public/images/main_menu.png"> 
+    <img class="lc-img" src="{{ site.baseurl }}/public/images/main_menu.png"> 
 </div>
 
 **Пункты меню:**
