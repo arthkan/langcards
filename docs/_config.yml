@@ -10,7 +10,7 @@ title:               Language cards help
 tagline:             ''
 description:         Language Cards помогает запоминать английские слова и выражения через карточки
 url:                 ''
-baseurl:             ''
+baseurl:             /langcards
 paginate:            5
 
 gems:
