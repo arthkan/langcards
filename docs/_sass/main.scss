@@ -1,0 +1,46 @@
+
+$pic_margin_right: 20px;
+$img_margin: 5px 5px 2px 2px;
+$img_width: 300px;
+$img_height: 530px;
+
+$img_small_width: 125px;
+$img_small_height: 225px;
+
+@mixin cf {
+  &:before,
+  &:after{
+    content: " ";
+    display: table;
+  }
+
+  &:after{
+    display: block;
+    clear: both;
+    height: 1px;
+    margin-top: -1px;
+    visibility: hidden;
+  }
+  &{
+    *zoom: 1;
+  }
+}
+
+.pic-row {
+  @include cf;
+}
+
+.pic-right {
+  float: left;
+  margin-right: $pic_margin_right;
+}
+
+.lc-img {
+  width: $img_width;
+  height: $img_height;
+  margin: $img_margin;
+  &.small {
+    width: $img_small_width;
+    height: $img_small_height;
+  }
+}

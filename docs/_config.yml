@@ -1,0 +1,36 @@
+repository: langcards/arthkan.github.io
+# repository: tomjohnson1492/documentation-theme-jekyll
+# Permalinks
+# Use of `relative_permalinks` ensures post links from the index work properly.
+# permalink:           pretty
+# relative_permalinks: true
+
+
+title:               Language cards help
+tagline:             ''
+description:         Language Cards помогает запоминать английские слова и выражения через карточки
+url:                 ''
+baseurl:             ''
+paginate:            5
+
+gems:
+  - jekyll-feed
+  - jekyll-sass-converter
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea/
+  - .gitignore
+
+sass:
+  style: compressed
+
+app:
+  version: '1.4.0'
+  google_play_ref: "https://play.google.com/store/apps/details?id=com.kan.langcards"
+
+author:
+  name:  Arthur Kan
+  email: polartod@gmail.com
+
