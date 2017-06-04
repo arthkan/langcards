@@ -2,6 +2,8 @@
 layout: page
 title: Главное меню приложения
 order: 2
+previous: /introducing
+next: /dict_list
 ---
 
 <div class="pic-right"> 

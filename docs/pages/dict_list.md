@@ -2,6 +2,8 @@
 layout: page
 title: Список словарей
 order: 3
+previous: /main_menu
+next: /card_list
 ---
 
 <div class="pic-right"> 

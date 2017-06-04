@@ -2,6 +2,8 @@
 layout: page
 title: Работа с наборами карточек
 order: 5
+previous: /card_list
+next: /cross_dicts_search
 ---
 
 ### Набор карточек

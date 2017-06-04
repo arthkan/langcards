@@ -44,3 +44,16 @@ $img_small_height: 225px;
     height: $img_small_height;
   }
 }
+
+.pager {
+  width: 100%;
+
+  .next {
+    float: right;
+  }
+  .previous {
+    float: left;
+    clear: right;
+  }
+}
+

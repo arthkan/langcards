@@ -2,6 +2,7 @@
 layout: page
 title: Общие сведения
 order: 1
+next: /main_menu
 ---
 
 ### Language cards - приложение для android 

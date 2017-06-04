@@ -2,6 +2,8 @@
 layout: page
 title: Список карточек словаря
 order: 4
+previous: /dict_list
+next: /cardset_work
 ---
 
 <div class="pic-row"></div>
@@ -21,3 +23,4 @@ order: 4
 <div class="pic-right"> 
     <img sclass="lc-img" src="{{ site.baseurl }}/public/images/card_view.png"> 
 </div>
+<div class="pic-row"></div>
