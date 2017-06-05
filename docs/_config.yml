@@ -12,7 +12,7 @@ description:         Language Cards помогает запоминать анг
 url:                 ''
 baseurl:             /langcards
 paginate:            5
-
+disqus: arthkan
 gems:
   - jekyll-feed
   - jekyll-sass-converter
