@@ -27,7 +27,7 @@ sass:
   style: compressed
 
 app:
-  version: '1.4.0'
+  version: '1.6.0'
   google_play_ref: "https://play.google.com/store/apps/details?id=com.kan.langcards"
 
 author:
